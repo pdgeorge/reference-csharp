@@ -1,0 +1,1 @@
+This is literally just a fast reference of C# concepts for myself.
